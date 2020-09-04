@@ -1,5 +1,7 @@
 {
   "name": "badge",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
